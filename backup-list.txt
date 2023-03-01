@@ -1,0 +1,16 @@
+/etc/nginx/
+/home/oscn/backupscript
+/home/oscn/bazarr
+/home/oscn/dns
+/home/oscn/draw.io
+/home/oscn/emby/docker-compose.yml
+/home/oscn/expressvpn
+/home/oscn/jacket
+/home/oscn/jdownloader/docker-compose.yml
+/home/oscn/jellyfin/docker-compose.yml
+/home/oscn/overleaf
+/home/oscn/nextcloud
+/home/oscn/plex/docker-compose.yml
+/home/oscn/qbittorrentvpn
+/home/oscn/radarr/docker-compose.yml
+/home/oscn/sonarr

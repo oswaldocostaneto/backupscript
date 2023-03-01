@@ -1,0 +1,2 @@
+/home/oscn/overleaf/data
+/home/oscn/backupscript/test
